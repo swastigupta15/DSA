@@ -30,4 +30,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/swastigupta15/DSA/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swastigupta15/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swastigupta15/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swastigupta15/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swastigupta15/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
