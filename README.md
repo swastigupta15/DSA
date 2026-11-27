@@ -42,6 +42,7 @@
 | [0383-ransom-note](https://github.com/swastigupta15/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/swastigupta15/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swastigupta15/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0796-rotate-string](https://github.com/swastigupta15/DSA/tree/main/0796-rotate-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swastigupta15/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/swastigupta15/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
