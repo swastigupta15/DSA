@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/swastigupta15/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/swastigupta15/DSA/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/swastigupta15/DSA/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 ## Greedy
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swastigupta15/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/swastigupta15/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
